@@ -22,6 +22,7 @@
 			"#include <cstdio>",
 			"#include <cmath>",
 			"#include <ctime>",
+			"#include <climits>",
 			"#include <cstring>",
 			"#include <string>",
 			"",
@@ -32,6 +33,6 @@
 			"",
 			"}",
 		],
-		"description": "Log output to console"
+		"description": "cpp"
 	}
 }

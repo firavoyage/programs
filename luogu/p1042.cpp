@@ -43,11 +43,14 @@ int main(){
     }
 
     // if(l11||r11){
-        res11+=to_string(l11)+":"+to_string(r11)+"\n";
+    //     res11+=to_string(l11)+":"+to_string(r11)+"\n";
     // }
     // if(l21||r21){
-        res21+=to_string(l21)+":"+to_string(r21)+"\n";    
+    //     res21+=to_string(l21)+":"+to_string(r21)+"\n";    
     // }
+
+    res11+=to_string(l11)+":"+to_string(r11)+"\n";
+    res21+=to_string(l21)+":"+to_string(r21)+"\n";    
 
     res11+="\n";
 
